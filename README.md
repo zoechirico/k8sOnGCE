@@ -1,7 +1,6 @@
 # k8sOnGCE
 
 
-## k8s on GCE
 
 *create cluster*
 ```bash
